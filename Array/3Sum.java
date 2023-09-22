@@ -21,9 +21,7 @@ Explanation: The only possible triplet sums up to 0.
 Constraints:
 3 <= nums.length <= 3000
 -105 <= nums[i] <= 105
-
- */
-
+*/
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
