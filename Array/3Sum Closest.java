@@ -12,8 +12,8 @@ Constraints:
 3 <= nums.length <= 500
 -1000 <= nums[i] <= 1000
 -104 <= target <= 104
-  */
-lass Solution {
+ */
+class Solution {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int closestSum=nums[0]+nums[1]+nums[2];
