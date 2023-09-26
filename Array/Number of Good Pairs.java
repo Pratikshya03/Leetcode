@@ -10,8 +10,6 @@ Explanation: Each pair in the array are good.
 Example 3:
 Input: nums = [1,2,3]
 Output: 0
- 
-
 Constraints:
 
 1 <= nums.length <= 100
