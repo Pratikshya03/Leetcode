@@ -7,11 +7,8 @@ Example 2:
 Input: nums = [1,2,3,4,4,3,2,1], n = 4
 Output: [1,4,2,3,3,2,4,1]
 Example 3:
-
 Input: nums = [1,1,2,2], n = 2
 Output: [1,2,1,2]
- 
-
 Constraints:
 
 1 <= n <= 500
