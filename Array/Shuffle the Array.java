@@ -12,7 +12,8 @@ Output: [1,2,1,2]
 Constraints:
 1 <= n <= 500
 nums.length == 2n
-1 <= nums[i] <= 10^3 */
+1 <= nums[i] <= 10^3
+*/
 class Solution {
     public int[] shuffle(int[] nums, int n) {
         int ans[] = new int[2*n];
